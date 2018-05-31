@@ -1,5 +1,5 @@
 Plugin: PlCreative
-Version: 1.0.0.0.0.0.0
+Version: 1.0.0.6
 Enable: true
 <sql
 localhost: den1.mysql3.gear.host
